@@ -1,7 +1,9 @@
 
 
 body{
-     background-image:url("img_tmp_tag.jpg");
+     background-image:url("<img src="" alt="photo">
+       <img src="" alt="photo">
+       <img src="" alt="photo"> ");
     color:white;
     font-size:30px;
     text-align: center;
